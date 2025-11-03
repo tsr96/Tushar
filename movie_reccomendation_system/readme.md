@@ -14,5 +14,5 @@ It suggests movies based on user preferences, content similarity, and collaborat
 - 💾 Pickle model (`similarity.pkl`) for fast predictions  
 - 🖥️ Streamlit / Flask web interface for interactive use
 
----
+
 
